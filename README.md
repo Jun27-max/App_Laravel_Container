@@ -41,7 +41,8 @@
 ​	
 - Arquitetura
 
-  https://miro.com/app/board/uXjVMQfnNWs=/?share_link_id=726868394845
+  ![diagrama](./Technical_Diagrams.png)
+
 
 
 
